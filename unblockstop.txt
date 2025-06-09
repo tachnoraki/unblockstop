@@ -1,16 +1,18 @@
 [Adblock Plus]
-! Version: 202506091248
+! Version: 202506091245
 ! Title: UnblockStop Proxy List
 ! Description: Blocks proxy and filter-bypass sites used to evade content restrictions, such as those bypassing GoGuardian, Linewize, or services like Utopia Unblocker.
 ! Syntax: Adblock Plus Filter List
-! Entries: 333
-! Last modified: 2025-06-09T12:37:00+0100
+! Entries: 373
+! Last modified: 2025-06-09T12:45:55+0000
 ! Expires: 24 hours
 ! License: https://github.com/tachnoraki/unblockstop/blob/main/LICENSE
 ! Maintainer: tachnoraki
 ! Homepage: https://github.com/tachnoraki/unblockstop
 ! Sources: Manual curation, user submissions
 
+||4everproxy.com^
+||a-regist.anondns.net^
 ||ab.ctx.cl^
 ||abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com^
 ||about.cmbazan.com.ar^
@@ -21,11 +23,13 @@
 ||again.devmon.ru^
 ||algebra-help-and-lessons.vercel.app^
 ||alst.ynbbs.cc^
+||anonymizing.com^
 ||anothaone.softify-link.ro^
 ||app.tollgatevillagetn.com^
 ||arjunthestinkyindian.dorsrv.ru^
 ||artiom.made.this.h0stname.net^
 ||arxthegoat.ts0880.es^
+||atozproxy.com^
 ||auditing.lepetitprince.com.np^
 ||bananakun.camdvr.org^
 ||bananakun.zapto.org^
@@ -35,12 +39,16 @@
 ||be.hse.tw^
 ||benmani2341shark.oops.wtf^
 ||bensmells.laoxz.cn^
+||biology.geographyles.com^
 ||blobx.ro0t.hm^
+||blockaway.net^
 ||blooket.broomleigh.org^
 ||bold-river-186.sz.games^
 ||bold-storm-255.3kh0.org^
+||boomproxy.com^
 ||bright-storm-707.scientificsense.org^
 ||bright-storm-767.nstabiology.org^
+||browser.lol^
 ||browser.lolo.pro^
 ||browser.pythonsden.net^
 ||btg.go4it.com.mx^
@@ -64,10 +72,12 @@
 ||coolgams.dk-condos.com^
 ||core.goal.challengepursuit.com^
 ||counseling.skamaria.co^
+||croxyproxy.com^
 ||croz-is-sigma-owner.music-menges.si^
 ||data.c-abogados.com.ar^
 ||deep-hawk-892.shuttleproxy.com^
 ||deep-lake-819.nstabiology.org^
+||delusionz.xyz^
 ||derrell-c-randolph-nesbitt.centrodiagnosticogenetico.com^
 ||devfruitpremium.incodesltda.cl^
 ||distributiveproperty.thehomeserver.net^
@@ -116,6 +126,8 @@
 ||furnandoistrans.hackquest.com^
 ||gamgasyoppakuteri-zenttodabi.gslb.info^
 ||gcpsk12.k.vu^
+||genmirror.com^
+||geonode.com^
 ||georgetown.duia.us^
 ||getbacktowork.strangled.net^
 ||gg.nordparrot.ro^
@@ -136,6 +148,7 @@
 ||help.cartes.cl^
 ||helpdesk.megaingenieria.com^
 ||henry-and-evan-cant-rizz.kyleton.org^
+||hidemyass.com^
 ||hihihi.minecraftnoob.com^
 ||history-of-earth.moldeo.org^
 ||history.lessons.forallages.moldeo.org^
@@ -158,7 +171,9 @@
 ||ilovemrsg.vivandex.com^
 ||infinitecampusportal.zach24.at^
 ||interesting-molli-qj-9c49db8e.koyeb.app^
+||interpreting.org^
 ||intertravel.guillaumevanstrydonck.be^
+||iproyal.com^
 ||its-spatter.blood-spatter.tcm-studios.info^
 ||ixl.lol-asha.dedyn.io^
 ||ixlclever.raspberryip.com^
@@ -176,6 +191,7 @@
 ||kitty.gokartprix.se^
 ||know.orbit.frawst.com^
 ||konata-ice.soon.it^
+||kproxy.com^
 ||lab.graph.central64.com^
 ||learn.azimei.cn^
 ||learn.myclarevision.com^
@@ -208,28 +224,36 @@
 ||mathsfun.undergames.cl^
 ||maxkershoe.soon.it^
 ||media.logic.postie.org^
+||megaproxy.com^
 ||mercury.glacialpower.com^
 ||minds.plant.theseks.net^
 ||monkeydoo.hardsoft.nu^
 ||mrfstudyguild.26252526.xyz^
 ||myapforums.rwbcode.com^
 ||mynameis.veronicabazan.cl^
+||mywebproxy.in^
 ||netnotworking.dynamicnetwork.ro^
+||netnut.io^
+||newipnow.com^
 ||nexsos.syac.ca^
 ||next.rinet.ai^
 ||nextgen.nex.sh^
 ||nibba.minecraftnoob.com^
+||nirbytes.com^
 ||nodamirai.hec.to^
 ||ojisama.dietpc.org^
 ||only-shooting-stars-breakthe.moldeo.org^
 ||ougonokaze.cheftayebeh.ir^
+||oxylabs.io^
 ||packetyo.nanbang.com.tr^
+||panproxy.com^
 ||passwordforlockedstellarisabc.charbel.cl^
 ||pbs.lookids.com^
 ||peepeepod.odoobooks.com^
 ||peepod.meicosoft.com^
 ||pipod.mypics.ca^
 ||pirate.wildsurf.net^
+||plainproxies.com^
 ||plant-selection.baumgardner.us^
 ||please-please-please-watch-you-or.dexter.e1racecar.com^
 ||pleaseworkiwantutopia.faizinternational.com.np^
@@ -237,6 +261,11 @@
 ||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
 ||potatojuice.h0stname.net^
 ||proof.major.archanet.org^
+||proxfree.com^
+||proxyboost.net^
+||proxyium.com^
+||proxyscrape.com^
+||proxysite.com^
 ||purchase.machines.asia^
 ||pure-cloud-838.k12biology.com^
 ||puzzled-dulci-ballpit-1-5f558a50.koyeb.app^
@@ -280,6 +309,7 @@
 ||start.puto.me^
 ||start.succeed.cl^
 ||stevenisafemboy.auraria.org^
+||stormproxies.com^
 ||study.ajhurst.org^
 ||study.employeevantage.com^
 ||study.info.east-kazakhstan.su^
@@ -287,6 +317,8 @@
 ||study.reprap.eu^
 ||study.sci.nabim.com^
 ||study.toptrends.ch^
+||sudoip.net^
+||sudoproxy.net^
 ||suken.cfmr.ro^
 ||sunny-wolf-734.biologyscholar.org^
 ||support.meicosoft.com^
@@ -301,12 +333,17 @@
 ||the.infocommthailand.com^
 ||thisismathteach.myclarevision.com^
 ||tidepod.hoffer.cx^
+||top.syrnetworking.com^
 ||topic.craft.prazerdiario.com^
 ||travel.bsfa.info^
 ||tststststststststststststststststststststs.zavoj.ch^
+||turbohide.org^
 ||turtle.happyforever.com^
 ||uhh.cybdyn.com^
 ||uhm.sorry.oops.wtf^
+||unblocked.lol^
+||unblockedsites.xyz^
+||unblockit.pages.dev^
 ||unibrow.leasingindia.com^
 ||use.alabasgames.com^
 ||use.delcarmen.cl^
@@ -320,7 +357,9 @@
 ||v4-ai14.vercel.app^
 ||venus.glacialpower.com^
 ||vercel.or-g.net^
+||vimproxy.com^
 ||vocab.real.anynall.com^
+||vpnbook.com^
 ||watch-dexter.or-you-now.donciccio.net^
 ||watch-you.now.pits.cl^
 ||wave-is-best.bhjsalumni.com^
@@ -340,7 +379,8 @@
 ||yesking.vendo.ar^
 ||yessir.happyforever.com^
 ||yondr.disciple.limnet.org^
+||zend2.com^
 ||zi000.fpr.net^
 ||zoooom.malam.or.id^
 ||zrd.ddns.net^
-||﻿a-regist.anondns.net^
+||zyte.com^
