@@ -10,7 +10,7 @@ A blocklist of proxy and filter-bypass sites used to evade content restrictions 
 
 ## Stats
 
-- **Entries**: 332 domains
+- **Entries**: 2167 domains
 - **Last Updated**: 2025-06-09
 - **Sources**: Manual curation, user submissions
 
