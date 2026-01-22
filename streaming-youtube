@@ -1,3 +1,11 @@
+[Adblock Plus]
+! Title: Youtube and Youtube Kids List
+! Description: Tracks assets used by Youtube
+! Syntax: Adblock Plus Filter List
+! License: https://github.com/tachnoraki/unblockstop/blob/main/LICENSE
+! Maintainer: tachnoraki
+! Sources: Manual curation, user submissions
+
 ||accounts.youtube.com^
 ||i.ytimg.com^
 ||googlevideo.com^
