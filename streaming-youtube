@@ -1,7 +1,6 @@
-(\.|^)accounts\.youtube\.com$
-(\.|^)i\.ytimg\.com$
-(\.|^)googlevideo\.com$
-(\.|^)www\.youtube\.com$
-(\.|^)www\.youtubekids\.com$
-(\.|^)yt3\.ggpht\.com$
-(\.|^)youtu\.be$
+||accounts.youtube.com^
+||i.ytimg.com^
+||googlevideo.com^
+||www.youtube.com^
+||www.youtubekids.com^
+||yt3.ggpht.com^
