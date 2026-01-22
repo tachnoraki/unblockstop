@@ -1,4 +1,6 @@
-||*.api.snapchat.com^           # Covers gcp.api, aws.api, us-central1-gcp.api, us-east1-aws.api, europe-west1-gcp.api, etc.
+||www.snapchat.com^
 ||static.snapchat.com^
 ||story.snapchat.com^
 ||session.snapchat.com^
+||gcp.api.snapchat.com^
+||aws.api.snapchat.com^
