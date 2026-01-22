@@ -6,6 +6,7 @@
 ! Maintainer: tachnoraki
 ! Sources: Manual curation, user submissions
 
+||snapchat.com^
 ||www.snapchat.com^
 ||static.snapchat.com^
 ||story.snapchat.com^
